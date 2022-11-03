@@ -27,7 +27,7 @@ h1 {
 }
 
 h1:hover {
-    color: white;
+    color: black;
 }
 
 a {
@@ -36,5 +36,5 @@ a {
 }
 
 a:hover {
-    color: white;
+    color: black;
 }
