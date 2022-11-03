@@ -32,9 +32,9 @@ h1:hover {
 
 a {
     text-decoration:none ;
-    color: darkslategray;
+    color: white;
 }
 
 a:hover {
-    color: white;
+    color: black;
 }
